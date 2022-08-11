@@ -1,0 +1,15 @@
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/bin/Debug/net6.0/задание3
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/bin/Debug/net6.0/задание3.deps.json
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/bin/Debug/net6.0/задание3.runtimeconfig.json
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/bin/Debug/net6.0/задание3.dll
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/bin/Debug/net6.0/задание3.pdb
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.csproj.AssemblyReference.cache
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.AssemblyInfoInputs.cache
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.AssemblyInfo.cs
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.csproj.CoreCompileInputs.cache
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.dll
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/refint/задание3.dll
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.pdb
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/задание3.genruntimeconfig.cache
+/Users/irinagrigoreva/Desktop/Домашнее задание 1/задание3/obj/Debug/net6.0/ref/задание3.dll
